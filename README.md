@@ -1,12 +1,23 @@
 # Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis
 Hate speech on social media has become a major issue in today’s world due to the increased usage of the internet and people’s different views. This freedom of speech is misused to direct hate towards individuals or groups based on their race, religion, gender, etc. Distinguishing toxic content is a key challenge. In this report, we propose an approach to automatically classify Twitter text into two classes as hate speech and non-hate speech.
 ## Table of Contents
+* [Environment]()
 * [Objectives](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#objectives)
 * [Dataset Description](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#dataset-description)
 * [Methodology](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#methodology)
     * [Data Preprocessing](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#data-preprocessing)
     * [Data Preparation](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#data-preparation)
 * [Results](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#results)
+
+## Environment:
+- Jupyter Notebook on windows/Linux
+- Libraries required to be installed:
+   1. For code_ML.py: pandas, numpy, re, matplotlib, seaborn, nltk, operator, wordcloud, sklearn, unidecode
+   2. For code_VW.py:vw, pandas,random
+
+
+
+
 ## Objectives
 * The main objectives of the project include:
 * Analyzing a dataset from Kaggle containing Twitter text related to hate speech.
