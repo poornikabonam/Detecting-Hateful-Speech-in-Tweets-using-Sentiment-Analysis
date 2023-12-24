@@ -1,7 +1,7 @@
 # Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis
 Hate speech on social media has become a major issue in today’s world due to the increased usage of the internet and people’s different views. This freedom of speech is misused to direct hate towards individuals or groups based on their race, religion, gender, etc. Distinguishing toxic content is a key challenge. In this report, we propose an approach to automatically classify Twitter text into two classes as hate speech and non-hate speech.
 ## Table of Contents
-* [Environment]()
+* [Environment](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis/blob/main/README.md#environment)
 * [Objectives](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#objectives)
 * [Dataset Description](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#dataset-description)
 * [Methodology](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#methodology)
