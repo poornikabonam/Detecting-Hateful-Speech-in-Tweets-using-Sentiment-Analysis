@@ -8,6 +8,7 @@ Hate speech on social media has become a major issue in today’s world due to t
     * [Data Preprocessing](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#data-preprocessing)
     * [Data Preparation](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#data-preparation)
 * [Results](https://github.com/poornikabonam/Detecting-Hateful-Speech-in-Tweets-using-Sentiment-Analysis#results)
+* [Developers]()
 
 ## Environment:
 - Jupyter Notebook on windows/Linux
@@ -55,3 +56,7 @@ The data used for this project is taken from Kaggle, consisting of 31,935 tweets
 
 
 After model tuning, the project achieved an accuracy of 88%. Evaluation metrics include accuracy, precision, and F1 score. The comparative analysis with Vowpal Wabbit demonstrated the effectiveness of the proposed approach.
+
+## Developers
+[Poornika Bonam](https://github.com/poornikabonam)
+[Aditya Karnam](https://github.com/iamkarnam1999)
