@@ -58,5 +58,5 @@ The data used for this project is taken from Kaggle, consisting of 31,935 tweets
 After model tuning, the project achieved an accuracy of 88%. Evaluation metrics include accuracy, precision, and F1 score. The comparative analysis with Vowpal Wabbit demonstrated the effectiveness of the proposed approach.
 
 ## Developers
-[Poornika Bonam](https://github.com/poornikabonam)
-[Aditya Karnam](https://github.com/iamkarnam1999)
+- [Poornika Bonam](https://github.com/poornikabonam)
+- [Aditya Karnam](https://github.com/iamkarnam1999)
